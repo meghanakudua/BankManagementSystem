@@ -22,7 +22,7 @@ It’s designed for:
   - Auto-credit monthly salary to customer accounts
   - Deduct loan EMI automatically every month
   - Apply fine for missed EMI payments
-  - Approve loans only if person has is employed and has salary of more than 2,00,000 per month
+  - Approve loans only if person has is employed and has salary of more than 2,00,000 per month and no existing active loans
 
 # Technologies Used
 - Java (OOP and Swing for the user interface)
