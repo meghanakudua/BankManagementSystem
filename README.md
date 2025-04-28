@@ -29,8 +29,10 @@ It’s designed for:
 - MySQL (Database)
 - JDBC (Database connectivity)
 - External JAR Files Used:
+  
    a. mysql-connector-java-8.0.28.jar — Used for establishing a connection between Java     
       application and MySQL database
+  
    b. jcalendar-tz-1.3.3-4.jar — Used for providing a calendar UI component for date selection 
       in the application.
 
